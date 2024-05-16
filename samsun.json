@@ -1,15 +1,14 @@
-{ "samsun" : [
-  {
-  "isim" : "Atakum Sahil",
-  "aciklama" : "Atakum Sahili, Samsun'un en popüler turistik mekanlarından biridir.",
-  "fotourl" :"https://raw.githubusercontent.com/bircany/SamsunTanitim/main/AtakumSahil.jpg"
- 
-  },
-  {
-  "isim" : "Şahinkaya Kanyonu",
-  "aciklama" : "Şahinkaya Kanyonu, Samsun'un doğal güzelliklerinden biridir.",
-  "fotourl" : "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/SahinkayaKanyonu.jpg"
-  }
-
-
-]}
+{
+  "samsun": [
+    {
+      "isim": "Atakum Sahil",
+      "aciklama": "Atakum Sahili, Samsun'un en popüler turistik mekanlarından biridir.",
+      "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/AtakumSahil.jpg"
+    },
+    {
+      "isim": "Şahinkaya Kanyonu",
+      "aciklama": "Şahinkaya Kanyonu, Samsun'un doğal güzelliklerinden biridir.",
+      "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/SahinkayaKanyonu.jpg"
+    }
+  ]
+}
