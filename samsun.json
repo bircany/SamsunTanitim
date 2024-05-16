@@ -2,12 +2,12 @@
   "samsun": [
     {
       "isim": "Atakum Sahil",
-      "aciklama": "Atakum Sahili, Samsun'un en popüler turistik mekanlarından biridir.",
+      "aciklama": "Atakum Sahili, Türkiye'nin Karadeniz kıyısında bulunan Samsun ilinin en popüler turistik mekanlarından biridir. Temiz kumları, uzun sahil şeridi ve canlı atmosferiyle ziyaretçilerine keyifli bir deneyim sunar. Sahil boyunca yürüyüş yapabilir, denize girebilir veya kumsalda dinlenebilirsiniz. Ayrıca çevresinde birçok restoran, kafe ve alışveriş noktası bulunmaktadır.",
       "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/AtakumSahil.jpg"
     },
     {
       "isim": "Şahinkaya Kanyonu",
-      "aciklama": "Şahinkaya Kanyonu, Samsun'un doğal güzelliklerinden biridir.",
+      "aciklama": "Şahinkaya Kanyonu, Samsun'un doğal güzelliklerinden biridir. Derin vadiler ve yemyeşil doğasıyla ünlüdür. Kanyon, trekking ve doğa yürüyüşü yapmak isteyenler için ideal bir yerdir. Ayrıca zipline gibi aktiviteler de burada sunulmaktadır. Ziyaretçiler, muhteşem manzaralar eşliğinde doğanın tadını çıkarabilir ve unutulmaz anlar yaşayabilirler.",
       "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/SahinkayaKanyonu.jpg"
     }
   ]
